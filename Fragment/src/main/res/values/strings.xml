@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">KaiSeR</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="country_name"
+        >
+        <item>스트레칭</item>
+        <item>레그프레스</item>
+        <item>레그 익스텐션</item>
+        <item>레그컬</item>
+        <item>체스트프레스</item>
+        <item>로윙</item>
+        <item>숄더프레스</item>
+        <item>러닝머신</item>
+        <item>크런치</item>
+ </string-array>
+
+    <string-array name="country_name2"
+        >
+        <item>벤치프레스</item>
+        <item>레그프레스</item>
+        <item>레그 익스텐션</item>
+        <item>레그컬</item>
+        <item>체스트프레스</item>
+        <item>로윙</item>
+        <item>숄더프레스</item>
+        <item>러닝머신</item>
+        <item>크런치</item>
+    </string-array>
+
+    <string-array name="country_name3"
+        >
+        <item>레그컬</item>
+        <item>벤치프레스</item>
+        <item>레그프레스</item>
+        <item>레그 익스텐션</item>
+        <item>레그컬</item>
+        <item>체스트프레스</item>
+        <item>로윙</item>
+        <item>숄더프레스</item>
+        <item>러닝머신</item>
+        <item>크런치</item>
+    </string-array>
+
+
+    <string-array name="country_name4">
+        <item>러닝머신</item>
+
+        <item>벤치프레스</item>
+        <item>레그프레스</item>
+        <item>레그 익스텐션</item>
+        <item>레그컬</item>
+        <item>체스트프레스</item>
+        <item>로윙</item>
+        <item>숄더프레스</item>
+        <item>러닝머신</item>
+        <item>크런치</item>
+    </string-array>
+
+
+
+
+</resources>
